@@ -280,7 +280,9 @@
     .banner-content-texts {
         text-align: center;
     }
-
+    .banner .section-description{
+        width: 100%;
+    }
     .banner-img {
         justify-content: end;
     }
